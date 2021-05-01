@@ -1,9 +1,9 @@
 import random 
-import math
 	
 name = input("Enter your name:")
 user_score = 0
 comp_score = 0
+
 while True:
 	print("Enter your choice:\n1.rock\n2.paper\n3.scissor\n")
 	user_input = int(input("Enter your choice:"))
